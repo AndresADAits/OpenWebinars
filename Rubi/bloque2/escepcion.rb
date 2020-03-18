@@ -3,7 +3,7 @@ Excepciones en Ruby
 Una excepción es un tipo especial de objeto, una instancia de la clase Exception o de cualquiera de sus clases descendientes.
 Lanzar una excepción implica detener la ejecución normal de nuestro programa.
 
-1 / 0
+1 / 0 
 
 # lanzará ZeroDivisionError por intentar realizar una división por 0
 Estas son algunas excepciones de Ruby, y la forma de producirlas:
